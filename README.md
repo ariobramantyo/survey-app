@@ -1,16 +1,11 @@
-# survey_app
+# Survey App
 
-A new Flutter project.
+A new Synapsis Challenge Test.
 
-## Getting Started
+## Notes
+- The remember me feature has been implemented by default where users cannot uncheck the checkbox on the login page
+- When the user has finished or submitted the survey. What happens is that the application only prints the survey results that have been filled in by the user on the debug console
+- The application cannot handle survey questions in the form of multi checkboxes
+- The Question Numbering Pop up feature has not been implemented properly. The pop up can only display the numbers in the survey without the ability to receive actions from the user
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
